@@ -1,0 +1,2 @@
+inkscape --export-filename clubdeloie_affiche.pdf clubdeloie_affiche.svg
+echo clubdeloie_affiche.pdf
